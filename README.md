@@ -1,4 +1,4 @@
-# Sem 2 AP CS Final Project 23-24'- Alice Su, Kailua Cheng, Paige Xu
+Final Project 23-24'- Alice Su, Kailua Cheng, Paige Xu
 
 [Presention](https://docs.google.com/presentation/d/1eSGwyzvZqxE75hZKLqILc-Q1lM9ELWrSkqkcYbIfn78/edit?usp=sharing)
 <br/>
